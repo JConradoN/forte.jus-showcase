@@ -6,6 +6,8 @@ Conecta direto ao PJe do TJAP, baixa processos e intimações automaticamente, r
 
 > **MVP em produção** — escritório piloto em Macapá/AP desde março/2026.
 
+![Forte.jus — análise de processo com citação de página e pontos de reflexão](docs/screenshots/forte.jus_screenshot-1.jpg)
+
 ---
 
 ## O problema
@@ -173,6 +175,8 @@ Endpoints confirmados no TJAP:
 **Status:** protocolo documentado, cliente SOAP implementado. Aguardando credenciais de advogado cadastrado no PJe/TJAP para validação em produção.
 
 ---
+
+![Forte.jus — pontos de reflexão, legislação aplicável e recomendações processuais](docs/screenshots/forte.jus_screenshot-2.jpg)
 
 ## Guardrails
 
